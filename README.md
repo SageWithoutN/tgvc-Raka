@@ -1,10 +1,10 @@
-# Telegram Voice Chat King
+# Telegram Voice Chat Raka
 
 UserBot Telegram untuk Memutar Audio dalam Obrolan Suara.
 
 ## Deploy ke Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/apisuserbot/tgvc-King/tree/dev)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SageWithoutN/tgvc-Raka/tree/dev)
 
 **Fitur**
 
